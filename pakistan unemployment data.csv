@@ -1,0 +1,376 @@
+Region,Date,Frequency,Estimated Unemployment Rate (%),Estimated Employed,Estimated Labour Participation Rate (%),Area
+Lahore,31-12-2000,Yearly,6.1,1547205,58.29,Urban
+Lahore,31-12-2001,Yearly,6.0,1791665,48.46,Urban
+Lahore,31-12-2002,Yearly,5.8,1418000,40.23,Urban
+Lahore,31-12-2003,Yearly,5.6,110787,41.04,Urban
+Lahore,31-12-2004,Yearly,5.7,1578197,44.5,Urban
+Lahore,31-12-2005,Yearly,5.5,1400607,59.52,Urban
+Lahore,31-12-2006,Yearly,5.3,1115790,46.3,Urban
+Lahore,31-12-2007,Yearly,5.0,487195,36.2,Urban
+Lahore,31-12-2008,Yearly,5.2,2348688,49.27,Urban
+Lahore,31-12-2009,Yearly,5.5,2306044,38.75,Urban
+Lahore,31-12-2010,Yearly,6.0,1758303,41.34,Urban
+Lahore,31-12-2011,Yearly,6.2,761379,35.29,Urban
+Lahore,31-12-2012,Yearly,6.4,477988,42.73,Urban
+Lahore,31-12-2013,Yearly,6.1,438948,59.65,Urban
+Lahore,31-12-2014,Yearly,6.3,995035,38.26,Urban
+Lahore,31-12-2015,Yearly,6.5,677339,49.69,Urban
+Lahore,31-12-2016,Yearly,6.4,285726,56.56,Urban
+Lahore,31-12-2017,Yearly,6.2,2888349,41.17,Urban
+Lahore,31-12-2018,Yearly,6.0,1405276,35.55,Urban
+Lahore,31-12-2019,Yearly,6.3,1958060,45.35,Urban
+Lahore,31-12-2020,Yearly,6.5,883170,40.17,Urban
+Lahore,31-12-2021,Yearly,6.7,1996667,45.41,Urban
+Lahore,31-12-2022,Yearly,6.6,621012,52.23,Urban
+Lahore,31-12-2023,Yearly,6.4,1738710,56.47,Urban
+Lahore,31-12-2024,Yearly,6.2,440680,54.64,Urban
+Faisalabad,31-12-2000,Yearly,6.1,2053199,37.88,Urban
+Faisalabad,31-12-2001,Yearly,6.0,2114980,46.04,Urban
+Faisalabad,31-12-2002,Yearly,5.8,2840456,38.54,Urban
+Faisalabad,31-12-2003,Yearly,5.6,1964217,44.55,Urban
+Faisalabad,31-12-2004,Yearly,5.7,2874763,43.25,Urban
+Faisalabad,31-12-2005,Yearly,5.5,2890339,57.54,Urban
+Faisalabad,31-12-2006,Yearly,5.3,884111,55.09,Urban
+Faisalabad,31-12-2007,Yearly,5.0,2987252,41.32,Urban
+Faisalabad,31-12-2008,Yearly,5.2,1366654,48.0,Urban
+Faisalabad,31-12-2009,Yearly,5.5,955300,35.38,Urban
+Faisalabad,31-12-2010,Yearly,6.0,738375,42.05,Urban
+Faisalabad,31-12-2011,Yearly,6.2,1386439,39.28,Urban
+Faisalabad,31-12-2012,Yearly,6.4,2632438,52.62,Urban
+Faisalabad,31-12-2013,Yearly,6.1,347081,51.25,Urban
+Faisalabad,31-12-2014,Yearly,6.3,1995604,58.91,Urban
+Faisalabad,31-12-2015,Yearly,6.5,108761,41.2,Urban
+Faisalabad,31-12-2016,Yearly,6.4,2790595,58.3,Urban
+Faisalabad,31-12-2017,Yearly,6.2,2189701,54.14,Urban
+Faisalabad,31-12-2018,Yearly,6.0,365301,47.85,Urban
+Faisalabad,31-12-2019,Yearly,6.3,771591,39.53,Urban
+Faisalabad,31-12-2020,Yearly,6.5,2449880,38.38,Urban
+Faisalabad,31-12-2021,Yearly,6.7,1459090,58.46,Urban
+Faisalabad,31-12-2022,Yearly,6.6,638913,59.45,Urban
+Faisalabad,31-12-2023,Yearly,6.4,2983435,48.89,Urban
+Faisalabad,31-12-2024,Yearly,6.2,593414,42.9,Urban
+Rawalpindi,31-12-2000,Yearly,6.1,1331029,42.73,Urban
+Rawalpindi,31-12-2001,Yearly,6.0,913843,59.31,Urban
+Rawalpindi,31-12-2002,Yearly,5.8,544758,53.33,Urban
+Rawalpindi,31-12-2003,Yearly,5.6,101190,49.9,Urban
+Rawalpindi,31-12-2004,Yearly,5.7,2756235,42.2,Urban
+Rawalpindi,31-12-2005,Yearly,5.5,638025,51.29,Urban
+Rawalpindi,31-12-2006,Yearly,5.3,2166544,52.2,Urban
+Rawalpindi,31-12-2007,Yearly,5.0,1026019,41.31,Urban
+Rawalpindi,31-12-2008,Yearly,5.2,2872165,58.08,Urban
+Rawalpindi,31-12-2009,Yearly,5.5,1426218,56.15,Urban
+Rawalpindi,31-12-2010,Yearly,6.0,1411738,45.61,Urban
+Rawalpindi,31-12-2011,Yearly,6.2,554613,45.66,Urban
+Rawalpindi,31-12-2012,Yearly,6.4,1658509,35.56,Urban
+Rawalpindi,31-12-2013,Yearly,6.1,1387928,54.53,Urban
+Rawalpindi,31-12-2014,Yearly,6.3,2072134,50.88,Urban
+Rawalpindi,31-12-2015,Yearly,6.5,2737711,35.45,Urban
+Rawalpindi,31-12-2016,Yearly,6.4,1715438,54.68,Urban
+Rawalpindi,31-12-2017,Yearly,6.2,1669873,43.1,Urban
+Rawalpindi,31-12-2018,Yearly,6.0,495127,57.19,Urban
+Rawalpindi,31-12-2019,Yearly,6.3,1465211,56.95,Urban
+Rawalpindi,31-12-2020,Yearly,6.5,1798971,51.85,Urban
+Rawalpindi,31-12-2021,Yearly,6.7,2432357,51.48,Urban
+Rawalpindi,31-12-2022,Yearly,6.6,1254359,47.84,Urban
+Rawalpindi,31-12-2023,Yearly,6.4,2428832,44.34,Urban
+Rawalpindi,31-12-2024,Yearly,6.2,1225552,37.39,Urban
+Multan,31-12-2000,Yearly,6.1,2752295,37.28,Urban
+Multan,31-12-2001,Yearly,6.0,1979807,45.33,Urban
+Multan,31-12-2002,Yearly,5.8,1276296,51.99,Urban
+Multan,31-12-2003,Yearly,5.6,294572,49.84,Urban
+Multan,31-12-2004,Yearly,5.7,2338892,55.71,Urban
+Multan,31-12-2005,Yearly,5.5,594538,57.44,Urban
+Multan,31-12-2006,Yearly,5.3,2002824,57.05,Urban
+Multan,31-12-2007,Yearly,5.0,1507314,48.55,Urban
+Multan,31-12-2008,Yearly,5.2,2765211,57.5,Urban
+Multan,31-12-2009,Yearly,5.5,1399667,41.86,Urban
+Multan,31-12-2010,Yearly,6.0,1240194,44.69,Urban
+Multan,31-12-2011,Yearly,6.2,931914,41.71,Urban
+Multan,31-12-2012,Yearly,6.4,2597083,36.75,Urban
+Multan,31-12-2013,Yearly,6.1,2065072,39.32,Urban
+Multan,31-12-2014,Yearly,6.3,1099067,36.54,Urban
+Multan,31-12-2015,Yearly,6.5,882924,54.21,Urban
+Multan,31-12-2016,Yearly,6.4,2666544,40.54,Urban
+Multan,31-12-2017,Yearly,6.2,1444289,46.76,Urban
+Multan,31-12-2018,Yearly,6.0,2633368,54.07,Urban
+Multan,31-12-2019,Yearly,6.3,1587924,51.77,Urban
+Multan,31-12-2020,Yearly,6.5,2557330,35.24,Urban
+Multan,31-12-2021,Yearly,6.7,1268381,57.68,Urban
+Multan,31-12-2022,Yearly,6.6,2246908,48.57,Urban
+Multan,31-12-2023,Yearly,6.4,1635969,43.69,Urban
+Multan,31-12-2024,Yearly,6.2,1609510,51.38,Urban
+Gujranwala,31-12-2000,Yearly,6.1,1313253,52.85,Urban
+Gujranwala,31-12-2001,Yearly,6.0,2597573,38.87,Urban
+Gujranwala,31-12-2002,Yearly,5.8,1409486,45.2,Urban
+Gujranwala,31-12-2003,Yearly,5.6,2093648,41.25,Urban
+Gujranwala,31-12-2004,Yearly,5.7,1956728,56.94,Urban
+Gujranwala,31-12-2005,Yearly,5.5,1312582,57.78,Urban
+Gujranwala,31-12-2006,Yearly,5.3,2980175,37.65,Urban
+Gujranwala,31-12-2007,Yearly,5.0,775854,58.76,Urban
+Gujranwala,31-12-2008,Yearly,5.2,2879150,37.44,Urban
+Gujranwala,31-12-2009,Yearly,5.5,143496,39.03,Urban
+Gujranwala,31-12-2010,Yearly,6.0,2988437,39.5,Urban
+Gujranwala,31-12-2011,Yearly,6.2,1557388,56.21,Urban
+Gujranwala,31-12-2012,Yearly,6.4,159165,50.11,Urban
+Gujranwala,31-12-2013,Yearly,6.1,903374,56.56,Urban
+Gujranwala,31-12-2014,Yearly,6.3,922037,52.17,Urban
+Gujranwala,31-12-2015,Yearly,6.5,2055237,40.54,Urban
+Gujranwala,31-12-2016,Yearly,6.4,200918,45.23,Urban
+Gujranwala,31-12-2017,Yearly,6.2,938660,55.22,Urban
+Gujranwala,31-12-2018,Yearly,6.0,2421056,46.43,Urban
+Gujranwala,31-12-2019,Yearly,6.3,1858885,50.11,Urban
+Gujranwala,31-12-2020,Yearly,6.5,2498759,45.63,Urban
+Gujranwala,31-12-2021,Yearly,6.7,898795,41.63,Urban
+Gujranwala,31-12-2022,Yearly,6.6,1654958,46.23,Urban
+Gujranwala,31-12-2023,Yearly,6.4,1376350,37.28,Urban
+Gujranwala,31-12-2024,Yearly,6.2,2183951,40.34,Urban
+Sargodha,31-12-2000,Yearly,6.1,671166,45.32,Urban
+Sargodha,31-12-2001,Yearly,6.0,760557,49.6,Urban
+Sargodha,31-12-2002,Yearly,5.8,1177244,46.22,Urban
+Sargodha,31-12-2003,Yearly,5.6,1657791,40.09,Urban
+Sargodha,31-12-2004,Yearly,5.7,551680,57.01,Urban
+Sargodha,31-12-2005,Yearly,5.5,1357799,45.3,Urban
+Sargodha,31-12-2006,Yearly,5.3,203275,47.45,Urban
+Sargodha,31-12-2007,Yearly,5.0,1707092,48.97,Urban
+Sargodha,31-12-2008,Yearly,5.2,2150390,39.44,Urban
+Sargodha,31-12-2009,Yearly,5.5,831447,55.27,Urban
+Sargodha,31-12-2010,Yearly,6.0,2846795,38.4,Urban
+Sargodha,31-12-2011,Yearly,6.2,1543184,40.35,Urban
+Sargodha,31-12-2012,Yearly,6.4,274212,43.14,Urban
+Sargodha,31-12-2013,Yearly,6.1,516694,52.75,Urban
+Sargodha,31-12-2014,Yearly,6.3,1647804,38.6,Urban
+Sargodha,31-12-2015,Yearly,6.5,126801,55.2,Urban
+Sargodha,31-12-2016,Yearly,6.4,610964,50.16,Urban
+Sargodha,31-12-2017,Yearly,6.2,1077074,49.64,Urban
+Sargodha,31-12-2018,Yearly,6.0,1015396,37.17,Urban
+Sargodha,31-12-2019,Yearly,6.3,746555,39.7,Urban
+Sargodha,31-12-2020,Yearly,6.5,1341256,51.46,Urban
+Sargodha,31-12-2021,Yearly,6.7,865038,35.3,Urban
+Sargodha,31-12-2022,Yearly,6.6,1604918,50.14,Urban
+Sargodha,31-12-2023,Yearly,6.4,2892324,49.74,Urban
+Sargodha,31-12-2024,Yearly,6.2,1466400,49.34,Urban
+Bahawalpur,31-12-2000,Yearly,6.1,2790912,55.71,Urban
+Bahawalpur,31-12-2001,Yearly,6.0,1036638,40.93,Urban
+Bahawalpur,31-12-2002,Yearly,5.8,861637,47.61,Urban
+Bahawalpur,31-12-2003,Yearly,5.6,2257743,47.58,Urban
+Bahawalpur,31-12-2004,Yearly,5.7,296610,53.09,Urban
+Bahawalpur,31-12-2005,Yearly,5.5,2437313,42.24,Urban
+Bahawalpur,31-12-2006,Yearly,5.3,2025965,45.66,Urban
+Bahawalpur,31-12-2007,Yearly,5.0,2678446,56.13,Urban
+Bahawalpur,31-12-2008,Yearly,5.2,1623753,52.29,Urban
+Bahawalpur,31-12-2009,Yearly,5.5,2661714,47.39,Urban
+Bahawalpur,31-12-2010,Yearly,6.0,1008427,53.84,Urban
+Bahawalpur,31-12-2011,Yearly,6.2,738192,44.71,Urban
+Bahawalpur,31-12-2012,Yearly,6.4,2610609,53.11,Urban
+Bahawalpur,31-12-2013,Yearly,6.1,1271052,40.37,Urban
+Bahawalpur,31-12-2014,Yearly,6.3,1132308,42.1,Urban
+Bahawalpur,31-12-2015,Yearly,6.5,610659,53.58,Urban
+Bahawalpur,31-12-2016,Yearly,6.4,831003,46.35,Urban
+Bahawalpur,31-12-2017,Yearly,6.2,1218992,59.55,Urban
+Bahawalpur,31-12-2018,Yearly,6.0,1234168,37.0,Urban
+Bahawalpur,31-12-2019,Yearly,6.3,360495,49.77,Urban
+Bahawalpur,31-12-2020,Yearly,6.5,1838154,45.47,Urban
+Bahawalpur,31-12-2021,Yearly,6.7,1352347,36.35,Urban
+Bahawalpur,31-12-2022,Yearly,6.6,1597985,47.62,Urban
+Bahawalpur,31-12-2023,Yearly,6.4,533693,37.6,Urban
+Bahawalpur,31-12-2024,Yearly,6.2,458360,37.53,Urban
+Sialkot,31-12-2000,Yearly,6.1,1868154,39.91,Urban
+Sialkot,31-12-2001,Yearly,6.0,829147,39.34,Urban
+Sialkot,31-12-2002,Yearly,5.8,2877722,56.37,Urban
+Sialkot,31-12-2003,Yearly,5.6,768435,43.19,Urban
+Sialkot,31-12-2004,Yearly,5.7,708689,47.3,Urban
+Sialkot,31-12-2005,Yearly,5.5,156871,51.78,Urban
+Sialkot,31-12-2006,Yearly,5.3,1617159,57.47,Urban
+Sialkot,31-12-2007,Yearly,5.0,576739,55.1,Urban
+Sialkot,31-12-2008,Yearly,5.2,2396687,38.18,Urban
+Sialkot,31-12-2009,Yearly,5.5,1255822,39.25,Urban
+Sialkot,31-12-2010,Yearly,6.0,838689,41.58,Urban
+Sialkot,31-12-2011,Yearly,6.2,1713086,45.29,Urban
+Sialkot,31-12-2012,Yearly,6.4,2848425,38.16,Urban
+Sialkot,31-12-2013,Yearly,6.1,2923707,40.77,Urban
+Sialkot,31-12-2014,Yearly,6.3,2341334,43.47,Urban
+Sialkot,31-12-2015,Yearly,6.5,514936,56.45,Urban
+Sialkot,31-12-2016,Yearly,6.4,995697,51.47,Urban
+Sialkot,31-12-2017,Yearly,6.2,1742687,46.79,Urban
+Sialkot,31-12-2018,Yearly,6.0,1537876,53.31,Urban
+Sialkot,31-12-2019,Yearly,6.3,354541,51.7,Urban
+Sialkot,31-12-2020,Yearly,6.5,2697855,36.44,Urban
+Sialkot,31-12-2021,Yearly,6.7,507895,52.92,Urban
+Sialkot,31-12-2022,Yearly,6.6,1368117,45.09,Urban
+Sialkot,31-12-2023,Yearly,6.4,497203,47.67,Urban
+Sialkot,31-12-2024,Yearly,6.2,466981,46.92,Urban
+Sheikhupura,31-12-2000,Yearly,6.1,2314484,41.46,Urban
+Sheikhupura,31-12-2001,Yearly,6.0,1494280,59.8,Urban
+Sheikhupura,31-12-2002,Yearly,5.8,2091286,56.03,Urban
+Sheikhupura,31-12-2003,Yearly,5.6,1303058,54.2,Urban
+Sheikhupura,31-12-2004,Yearly,5.7,217477,38.07,Urban
+Sheikhupura,31-12-2005,Yearly,5.5,688905,45.05,Urban
+Sheikhupura,31-12-2006,Yearly,5.3,2552660,43.66,Urban
+Sheikhupura,31-12-2007,Yearly,5.0,1998401,52.73,Urban
+Sheikhupura,31-12-2008,Yearly,5.2,1799929,43.93,Urban
+Sheikhupura,31-12-2009,Yearly,5.5,1773455,43.56,Urban
+Sheikhupura,31-12-2010,Yearly,6.0,343234,59.82,Urban
+Sheikhupura,31-12-2011,Yearly,6.2,468829,36.81,Urban
+Sheikhupura,31-12-2012,Yearly,6.4,2647739,42.55,Urban
+Sheikhupura,31-12-2013,Yearly,6.1,1985861,43.23,Urban
+Sheikhupura,31-12-2014,Yearly,6.3,1235217,41.55,Urban
+Sheikhupura,31-12-2015,Yearly,6.5,1094828,45.27,Urban
+Sheikhupura,31-12-2016,Yearly,6.4,2189207,47.79,Urban
+Sheikhupura,31-12-2017,Yearly,6.2,2836339,36.05,Urban
+Sheikhupura,31-12-2018,Yearly,6.0,1558898,49.61,Urban
+Sheikhupura,31-12-2019,Yearly,6.3,2768571,36.23,Urban
+Sheikhupura,31-12-2020,Yearly,6.5,1763149,56.34,Urban
+Sheikhupura,31-12-2021,Yearly,6.7,801590,56.91,Urban
+Sheikhupura,31-12-2022,Yearly,6.6,155226,53.31,Urban
+Sheikhupura,31-12-2023,Yearly,6.4,2806028,51.43,Urban
+Sheikhupura,31-12-2024,Yearly,6.2,1373185,36.12,Urban
+Rahim Yar Khan,31-12-2000,Yearly,6.1,2768330,46.76,Urban
+Rahim Yar Khan,31-12-2001,Yearly,6.0,184091,52.25,Urban
+Rahim Yar Khan,31-12-2002,Yearly,5.8,1497328,38.11,Urban
+Rahim Yar Khan,31-12-2003,Yearly,5.6,721388,36.61,Urban
+Rahim Yar Khan,31-12-2004,Yearly,5.7,1765451,50.55,Urban
+Rahim Yar Khan,31-12-2005,Yearly,5.5,1566653,55.43,Urban
+Rahim Yar Khan,31-12-2006,Yearly,5.3,2596926,50.39,Urban
+Rahim Yar Khan,31-12-2007,Yearly,5.0,136994,52.38,Urban
+Rahim Yar Khan,31-12-2008,Yearly,5.2,1312198,49.14,Urban
+Rahim Yar Khan,31-12-2009,Yearly,5.5,1982334,43.76,Urban
+Rahim Yar Khan,31-12-2010,Yearly,6.0,2759586,38.35,Urban
+Rahim Yar Khan,31-12-2011,Yearly,6.2,2047384,35.11,Urban
+Rahim Yar Khan,31-12-2012,Yearly,6.4,2781488,37.81,Urban
+Rahim Yar Khan,31-12-2013,Yearly,6.1,375164,43.33,Urban
+Rahim Yar Khan,31-12-2014,Yearly,6.3,1183342,40.36,Urban
+Rahim Yar Khan,31-12-2015,Yearly,6.5,1796853,46.07,Urban
+Rahim Yar Khan,31-12-2016,Yearly,6.4,199109,42.99,Urban
+Rahim Yar Khan,31-12-2017,Yearly,6.2,2450255,52.24,Urban
+Rahim Yar Khan,31-12-2018,Yearly,6.0,2202125,52.45,Urban
+Rahim Yar Khan,31-12-2019,Yearly,6.3,1001822,37.49,Urban
+Rahim Yar Khan,31-12-2020,Yearly,6.5,890155,55.79,Urban
+Rahim Yar Khan,31-12-2021,Yearly,6.7,2943365,47.35,Urban
+Rahim Yar Khan,31-12-2022,Yearly,6.6,128131,38.5,Urban
+Rahim Yar Khan,31-12-2023,Yearly,6.4,1034034,49.46,Urban
+Rahim Yar Khan,31-12-2024,Yearly,6.2,317772,58.58,Urban
+Jhelum,31-12-2000,Yearly,6.1,1158743,57.81,Urban
+Jhelum,31-12-2001,Yearly,6.0,2363513,53.89,Urban
+Jhelum,31-12-2002,Yearly,5.8,1859487,50.67,Urban
+Jhelum,31-12-2003,Yearly,5.6,1950209,50.72,Urban
+Jhelum,31-12-2004,Yearly,5.7,1705812,59.66,Urban
+Jhelum,31-12-2005,Yearly,5.5,2223643,54.42,Urban
+Jhelum,31-12-2006,Yearly,5.3,2630142,40.39,Urban
+Jhelum,31-12-2007,Yearly,5.0,343032,47.07,Urban
+Jhelum,31-12-2008,Yearly,5.2,1590834,55.73,Urban
+Jhelum,31-12-2009,Yearly,5.5,1386972,49.27,Urban
+Jhelum,31-12-2010,Yearly,6.0,1628506,35.96,Urban
+Jhelum,31-12-2011,Yearly,6.2,1884123,55.7,Urban
+Jhelum,31-12-2012,Yearly,6.4,556752,49.86,Urban
+Jhelum,31-12-2013,Yearly,6.1,1821471,39.1,Urban
+Jhelum,31-12-2014,Yearly,6.3,458044,59.5,Urban
+Jhelum,31-12-2015,Yearly,6.5,1241786,40.69,Urban
+Jhelum,31-12-2016,Yearly,6.4,596841,51.69,Urban
+Jhelum,31-12-2017,Yearly,6.2,1867391,51.09,Urban
+Jhelum,31-12-2018,Yearly,6.0,355217,57.34,Urban
+Jhelum,31-12-2019,Yearly,6.3,1228873,42.83,Urban
+Jhelum,31-12-2020,Yearly,6.5,1440848,44.75,Urban
+Jhelum,31-12-2021,Yearly,6.7,2604373,58.23,Urban
+Jhelum,31-12-2022,Yearly,6.6,980014,56.6,Urban
+Jhelum,31-12-2023,Yearly,6.4,2366417,58.27,Urban
+Jhelum,31-12-2024,Yearly,6.2,812676,49.42,Urban
+Okara,31-12-2000,Yearly,6.1,896179,55.6,Urban
+Okara,31-12-2001,Yearly,6.0,115440,49.12,Urban
+Okara,31-12-2002,Yearly,5.8,1083690,43.07,Urban
+Okara,31-12-2003,Yearly,5.6,1970228,56.29,Urban
+Okara,31-12-2004,Yearly,5.7,1866667,56.33,Urban
+Okara,31-12-2005,Yearly,5.5,867332,47.99,Urban
+Okara,31-12-2006,Yearly,5.3,1406556,35.29,Urban
+Okara,31-12-2007,Yearly,5.0,1714755,51.54,Urban
+Okara,31-12-2008,Yearly,5.2,1816552,53.41,Urban
+Okara,31-12-2009,Yearly,5.5,1756885,36.67,Urban
+Okara,31-12-2010,Yearly,6.0,437692,49.91,Urban
+Okara,31-12-2011,Yearly,6.2,897440,36.99,Urban
+Okara,31-12-2012,Yearly,6.4,1345848,48.86,Urban
+Okara,31-12-2013,Yearly,6.1,1053363,53.01,Urban
+Okara,31-12-2014,Yearly,6.3,1966935,43.32,Urban
+Okara,31-12-2015,Yearly,6.5,2289130,51.22,Urban
+Okara,31-12-2016,Yearly,6.4,1948592,48.84,Urban
+Okara,31-12-2017,Yearly,6.2,133030,52.41,Urban
+Okara,31-12-2018,Yearly,6.0,1190521,58.57,Urban
+Okara,31-12-2019,Yearly,6.3,2472156,49.69,Urban
+Okara,31-12-2020,Yearly,6.5,831328,40.09,Urban
+Okara,31-12-2021,Yearly,6.7,1087116,46.91,Urban
+Okara,31-12-2022,Yearly,6.6,958590,47.87,Urban
+Okara,31-12-2023,Yearly,6.4,579574,59.44,Urban
+Okara,31-12-2024,Yearly,6.2,412981,58.3,Urban
+Dera Ghazi Khan,31-12-2000,Yearly,6.1,2749376,48.13,Urban
+Dera Ghazi Khan,31-12-2001,Yearly,6.0,2202240,45.9,Urban
+Dera Ghazi Khan,31-12-2002,Yearly,5.8,1927100,43.51,Urban
+Dera Ghazi Khan,31-12-2003,Yearly,5.6,973361,49.46,Urban
+Dera Ghazi Khan,31-12-2004,Yearly,5.7,1544576,49.49,Urban
+Dera Ghazi Khan,31-12-2005,Yearly,5.5,931316,44.17,Urban
+Dera Ghazi Khan,31-12-2006,Yearly,5.3,343304,36.31,Urban
+Dera Ghazi Khan,31-12-2007,Yearly,5.0,835026,36.86,Urban
+Dera Ghazi Khan,31-12-2008,Yearly,5.2,400947,55.32,Urban
+Dera Ghazi Khan,31-12-2009,Yearly,5.5,212734,51.47,Urban
+Dera Ghazi Khan,31-12-2010,Yearly,6.0,890417,56.79,Urban
+Dera Ghazi Khan,31-12-2011,Yearly,6.2,1506478,42.64,Urban
+Dera Ghazi Khan,31-12-2012,Yearly,6.4,1601153,44.55,Urban
+Dera Ghazi Khan,31-12-2013,Yearly,6.1,1736473,37.86,Urban
+Dera Ghazi Khan,31-12-2014,Yearly,6.3,2991272,45.64,Urban
+Dera Ghazi Khan,31-12-2015,Yearly,6.5,1109869,52.76,Urban
+Dera Ghazi Khan,31-12-2016,Yearly,6.4,1155308,55.83,Urban
+Dera Ghazi Khan,31-12-2017,Yearly,6.2,1417385,52.99,Urban
+Dera Ghazi Khan,31-12-2018,Yearly,6.0,411614,56.15,Urban
+Dera Ghazi Khan,31-12-2019,Yearly,6.3,2233582,40.29,Urban
+Dera Ghazi Khan,31-12-2020,Yearly,6.5,521329,42.91,Urban
+Dera Ghazi Khan,31-12-2021,Yearly,6.7,2930605,41.42,Urban
+Dera Ghazi Khan,31-12-2022,Yearly,6.6,1422769,35.75,Urban
+Dera Ghazi Khan,31-12-2023,Yearly,6.4,1251960,49.28,Urban
+Dera Ghazi Khan,31-12-2024,Yearly,6.2,2864061,47.92,Urban
+Gujrat,31-12-2000,Yearly,6.1,2475411,48.68,Urban
+Gujrat,31-12-2001,Yearly,6.0,218277,42.88,Urban
+Gujrat,31-12-2002,Yearly,5.8,1769094,58.76,Urban
+Gujrat,31-12-2003,Yearly,5.6,2591478,40.71,Urban
+Gujrat,31-12-2004,Yearly,5.7,738319,40.03,Urban
+Gujrat,31-12-2005,Yearly,5.5,2775247,56.32,Urban
+Gujrat,31-12-2006,Yearly,5.3,2347162,44.82,Urban
+Gujrat,31-12-2007,Yearly,5.0,1562704,46.61,Urban
+Gujrat,31-12-2008,Yearly,5.2,834855,47.63,Urban
+Gujrat,31-12-2009,Yearly,5.5,188440,38.3,Urban
+Gujrat,31-12-2010,Yearly,6.0,2671110,53.79,Urban
+Gujrat,31-12-2011,Yearly,6.2,1326318,47.93,Urban
+Gujrat,31-12-2012,Yearly,6.4,1172997,53.52,Urban
+Gujrat,31-12-2013,Yearly,6.1,2374143,54.08,Urban
+Gujrat,31-12-2014,Yearly,6.3,2195574,40.11,Urban
+Gujrat,31-12-2015,Yearly,6.5,1080113,46.75,Urban
+Gujrat,31-12-2016,Yearly,6.4,1059300,53.87,Urban
+Gujrat,31-12-2017,Yearly,6.2,1055125,38.46,Urban
+Gujrat,31-12-2018,Yearly,6.0,1257217,59.5,Urban
+Gujrat,31-12-2019,Yearly,6.3,755056,50.3,Urban
+Gujrat,31-12-2020,Yearly,6.5,1355622,36.78,Urban
+Gujrat,31-12-2021,Yearly,6.7,1514842,52.55,Urban
+Gujrat,31-12-2022,Yearly,6.6,1588338,56.8,Urban
+Gujrat,31-12-2023,Yearly,6.4,937917,37.16,Urban
+Gujrat,31-12-2024,Yearly,6.2,2816040,44.45,Urban
+Vehari,31-12-2000,Yearly,6.1,1771576,54.8,Urban
+Vehari,31-12-2001,Yearly,6.0,1040510,52.9,Urban
+Vehari,31-12-2002,Yearly,5.8,492715,42.28,Urban
+Vehari,31-12-2003,Yearly,5.6,519661,55.28,Urban
+Vehari,31-12-2004,Yearly,5.7,745683,52.94,Urban
+Vehari,31-12-2005,Yearly,5.5,2835565,48.19,Urban
+Vehari,31-12-2006,Yearly,5.3,1666085,46.53,Urban
+Vehari,31-12-2007,Yearly,5.0,1045081,46.89,Urban
+Vehari,31-12-2008,Yearly,5.2,1848142,59.65,Urban
+Vehari,31-12-2009,Yearly,5.5,2819517,56.55,Urban
+Vehari,31-12-2010,Yearly,6.0,2678479,46.7,Urban
+Vehari,31-12-2011,Yearly,6.2,2006589,57.38,Urban
+Vehari,31-12-2012,Yearly,6.4,1239557,59.04,Urban
+Vehari,31-12-2013,Yearly,6.1,1305780,50.03,Urban
+Vehari,31-12-2014,Yearly,6.3,2158434,58.76,Urban
+Vehari,31-12-2015,Yearly,6.5,809387,53.65,Urban
+Vehari,31-12-2016,Yearly,6.4,1610365,41.71,Urban
+Vehari,31-12-2017,Yearly,6.2,2352160,48.81,Urban
+Vehari,31-12-2018,Yearly,6.0,2016824,43.07,Urban
+Vehari,31-12-2019,Yearly,6.3,1495694,50.43,Urban
+Vehari,31-12-2020,Yearly,6.5,1274241,39.96,Urban
+Vehari,31-12-2021,Yearly,6.7,2888757,47.79,Urban
+Vehari,31-12-2022,Yearly,6.6,2228369,45.28,Urban
+Vehari,31-12-2023,Yearly,6.4,1129882,45.18,Urban
+Vehari,31-12-2024,Yearly,6.2,1286670,48.6,Urban
